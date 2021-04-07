@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase Demo</string>
+    <string name="message">Please Login or Register</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="city">City</string>
+    <string name="gender">Gender</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
